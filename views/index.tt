@@ -1,4 +1,5 @@
 <% include header.tt %>
+<div class="container">
 <% include sidebar.tt %>
 <% include error.tt %>
 
@@ -34,7 +35,7 @@
 
                 <p>
                 Vous pouvez mettre à jour l'adresse IP d'un nom de domaine de façon dynamique (style dyndns).
-                Venez découvrir ça ! 
+                Venez découvrir ça !
                 Téléchargez <a href="https://github.com/KaneRoot/dnsmanager/tree/master/cli/daemon">ce script</a>, et c'est en place en 2 minutes !
                 </p>
 
@@ -46,7 +47,7 @@
 
                 <h2>Pourquoi ?</h2>
                 <p>
-                Internet doit rester un lieu où l'utilisateur crée le contenu. 
+                Internet doit rester un lieu où l'utilisateur crée le contenu.
                 Ce projet vous donne un nom, ne restez pas dans l'ombre, <strong>créez</strong> !
                 </p>
 

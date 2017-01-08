@@ -20,13 +20,14 @@
         <% content %>
 
         <div class="row">
-            <div class="col-sm-8 col-sm-offset-3">
+            <div class="col-md-12 col-sm-12">
                 <div class="well" id="footer">
-                    Fièrement aidé par <a href="http://perldancer.org/">Dancer</a> <% dancer_version %> ♥<br/>
-                    Le code est disponible <a href="https://github.com/KaneRoot/dnsmanager">ici</a> ! \o/
+                        Fièrement aidé par <a href="http://perldancer.org/">Dancer</a> <% dancer_version %> ♥<br/>
+                        Le code est disponible <a href="https://github.com/KaneRoot/dnsmanager">ici</a> ! \o/
                 </div>
             </div>
         </div>
+        </div> <!-- fin de container -->
     </body>
 
 </html>
