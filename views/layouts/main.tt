@@ -18,6 +18,8 @@
 
     <body>
 
+    <% include header.tt %>
+
         <div class="container">
             <% content %>
 

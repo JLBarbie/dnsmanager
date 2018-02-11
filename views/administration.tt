@@ -1,4 +1,3 @@
-<% include header.tt %>
 <% include sidebar.tt %>
 <% include error.tt %>
 
